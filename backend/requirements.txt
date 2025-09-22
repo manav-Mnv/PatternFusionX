@@ -1,0 +1,15 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+pydantic>=2.0.0
+supabase>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+python-multipart>=0.0.6
+# Hugging Face AI Models
+transformers>=4.21.0
+torch>=1.12.0
+tokenizers>=0.13.0
+# Additional AI and ML libraries
+numpy>=1.21.0
+scikit-learn>=1.1.0
+or modeli gave u 
